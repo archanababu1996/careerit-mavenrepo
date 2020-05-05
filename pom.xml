@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
+            <id>releasedeployment</id>
             <name>Internal Releases</name>
             <url>http://192.168.99.100:8081/repository/testingrelease/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>snapdeployment</id>
             <name>Internal Snapshot Releases</name>
             <url>http://192.168.99.100:8081/repository/testingsnap/</url>
         </snapshotRepository>
