@@ -1,7 +1,14 @@
 <settings>
   <servers>
     <server>
-      <id>deployment</id>
+      <id>releasedeployment</id>
+      <username>admin</username>
+      <password>lookon</password>
+    </server>
+  </servers>
+  <servers>
+    <server>
+      <id>snapdeployment</id>
       <username>admin</username>
       <password>lookon</password>
     </server>
