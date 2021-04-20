@@ -46,10 +46,12 @@ div.ex {
 				<tr>
 					<td>Year Passed</td>
 					<td><input type="text" name="yop"/></td>
-					<th><input type="submit" value="Delete" name="button" /></th>
 				</tr>
 			</table>
-			<input type="submit" value="register"/>
+			<input type="botton" value="register"/>
+			<td>
+            			<asp:Button ID="btnSave" Text="Save" runat="server" OnClick="Save" />
+       			</td>
 		</form>
 	</div>
 </body>
