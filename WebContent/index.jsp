@@ -48,7 +48,7 @@ div.ex {
 					<td><input type="text" name="yop"/></td>
 				</tr>
 			</table>
-			<input type="botton" value="register"/>
+			<input type="submit" value="register"/>
 			
 		</form>
 	</div>
