@@ -49,9 +49,7 @@ div.ex {
 				</tr>
 			</table>
 			<input type="botton" value="register"/>
-			<td>
-            			<asp:Button ID="btnSave" Text="Save" runat="server" OnClick="Save" />
-       			</td>
+			
 		</form>
 	</div>
 </body>
