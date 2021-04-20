@@ -17,7 +17,7 @@ div.ex {
 <body>
 	<h1>Student Registration Form</h1>
 	<div class="ex">
-		<form action="RegistrationController.java" method="post">
+		<form action="NewFile.jsp" method="post">
 			<table style="with: 50%">
 				<tr>
 					<td>Student Full Name</td>
